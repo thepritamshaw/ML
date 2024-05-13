@@ -1,0 +1,15 @@
+1. Decison Tree
+Mean:  4.1509509820484665
+Standard Deviation:  0.8636252819120669
+
+2. Linear Regression
+Mean:  5.0349803597487695
+Standard Deviation:  1.0582771712628023
+
+3. Random forest Regressor
+Mean:  3.3066966775295277
+Standard Deviation:  0.6341767829899442
+
+
+Test Data
+RMSE: 2.8935781651856596
